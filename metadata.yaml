@@ -1,0 +1,28 @@
+_repo: Epilepsy-Hysteria-and-Neurasthenia--13-Their-Causes-Symptoms--amp--Treatment_14901
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Briggs, Isaac George
+    birthdate: 1892
+    gutenberg_agent_id: '5740'
+    url: http://www.gutenberg.org/2009/agents/5740
+description: ''
+gutenberg_issued: '2005-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nervous system -- Diseases'
+- !lcc 'RC'
+- !lcsh 'Hysteria'
+- !lcsh 'Neurasthenia'
+- !lcsh 'Epilepsy'
+title: 'Epilepsy, Hysteria, and Neurasthenia: Their Causes, Symptoms, & Treatment'
+url: http://www.gutenberg.org/ebooks/14901
